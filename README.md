@@ -1,13 +1,13 @@
-## Welcome to Lewisham Covid 19 Mutual Aid
+# Welcome to Lewisham Covid 19 Mutual Aid
 💜This is a community organising page to support the most vulnerable and isolated in our community during the Covid-19 outbreak.   
 
-### online groups  
+## online groups  
 
-## facebook   
+### facebook   
 https://www.facebook.com/groups/906156979855211/  
 
 
-## whatsapp
+### whatsapp
 [Bellingham and Whitefoot](https://chat.whatsapp.com/Einpexb4aMs314JhCA4int)  
 [Blackheath](https://chat.whatsapp.com/GuiZ8L5NXSUAjUf2QV5Stl)  
 [Brockley (includes St Johns)](https://chat.whatsapp.com/BRZksqTruF9LT9s7GbLTdT)  
@@ -23,7 +23,7 @@ https://www.facebook.com/groups/906156979855211/
 [Sydenham](https://chat.whatsapp.com/F2SzjyPoodG9aD5a29IEIo)  
 [Telegraph Hill](https://chat.whatsapp.com/Ds91FOu2zv5BNAUC7uSLZw)  
 
-### how to contribute to this site
+## how to contribute to this site
 
 You can use the [editor on GitHub](https://github.com/lewishamcovid19mutualaid/infosite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
