@@ -8,6 +8,8 @@ https://www.facebook.com/groups/906156979855211/
 
 
 ### whatsapp
+[pulled from this google doc](https://docs.google.com/document/d/17tlniSKKJ3-pkS-Ily13IDCq5UIRcxeB4wCXduykNgY/edit)  
+
 [Lewisham](https://chat.whatsapp.com/IIgMnpcLtTQ1OcQXjY1dIp)  
 [Bellingham and Whitefoot](https://chat.whatsapp.com/Einpexb4aMs314JhCA4int)  
 [Blackheath](https://chat.whatsapp.com/GuiZ8L5NXSUAjUf2QV5Stl)  
