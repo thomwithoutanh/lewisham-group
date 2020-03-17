@@ -23,6 +23,22 @@ https://www.facebook.com/groups/906156979855211/
 [Sydenham](https://chat.whatsapp.com/F2SzjyPoodG9aD5a29IEIo)  
 [Telegraph Hill](https://chat.whatsapp.com/Ds91FOu2zv5BNAUC7uSLZw)  
 
+#### subgroups
+Lewisham New Cross subgroups New Cross has subgroups. Some extend outside the ‘DNE’ boundaries.  
+[DNE6 (Around Bridge House Meadows)](https://chat.whatsapp.com/C70kVXXdKOtJrZZikU9fXu)  
+[DNE5 (Most of Hatcham)](https://chat.whatsapp.com/HxiuNhqpIyLE4X1U7JfoJc)  
+[DNE1 (Woodpecker Estate)](https://chat.whatsapp.com/F5QcYWAuj54FhlV1f3woWc)  
+[DNE4 (New Cross Gate Station to Childeric)](https://chat.whatsapp.com/BEHzCJrBbKu5JBeDTjLSHJ)  
+[DNE3 (around New Cross Station)](https://chat.whatsapp.com/J4mCbxLGTAY2UQha57vgNj)  
+[DNE2 (Deptford)](https://chat.whatsapp.com/FHg6OjKGAUAB45Olg9Umxo)   
+[(DNE2 (Deptford)](https://chat.whatsapp.com/J4mCbxLGTAY2UQha57vgNj) 
+
+##### forest hill sub groups
+[groups and chat links](https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=15COv-ATM1YFlhXhS6SaA3f5WmpSGuxRt&ll=51.44754127499999%2C-0.05616510000004382&z=17)
+
+
+
+
 ## how to contribute to this site
 
 You can use the [editor on GitHub](https://github.com/lewishamcovid19mutualaid/infosite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
