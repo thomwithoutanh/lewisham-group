@@ -43,7 +43,7 @@ Lewisham New Cross subgroups New Cross has subgroups. Some extend outside the â€
 [forest hill](https://docs.google.com/forms/d/e/1FAIpQLScGvJrsJaTKwwDrf1FtzaHMHe2fds4yrnzGoKE17aD34M_iUg/viewform)
 
 ## food 
-[Lewisham food banks](https://lewisham.gov.uk/mayorandcouncil/community-support/communityledprojects/food-bank-donation-and-distribution-points)]
+[Lewisham food banks](https://lewisham.gov.uk/mayorandcouncil/community-support/communityledprojects/food-bank-donation-and-distribution-points)  
 [olio food sharing app](https://olioex.com/)
 
 
